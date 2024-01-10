@@ -1,7 +1,7 @@
 #web developer
 
 <img src="https://avatars.githubusercontent.com/u/58153760?v=4" style="float:left;margin-right:15px" width="150"/>
-<p>Hi my name is <a href="htttps://www.yildizoguz.com.tr">Oğuzhan Yıldız</a>. I am living in Ankara, Turkey. I have been learning web development since 2021.
+<p>Hi my name is <i></i><a href="htttps://www.yildizoguz.com.tr">Oğuzhan Yıldız</a></i>. I am living in Ankara, Turkey. I have been learning web development since 2021.
 I am a passionate learner who wants to have a carrier in web development in the future.<p>
 <p>My aim is to be a full stack developer</p>
 <br>
