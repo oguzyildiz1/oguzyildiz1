@@ -4,7 +4,6 @@
 <p>Hi my name is <a>Oğuzhan Yıldız</a>. I am living in Ankara, Turkey. I have been learning web development since 2021.
 I am a passionate learner who wants to have a carrier in web development in the future.<p>
 <p>My aim is to be a full stack developer</p>
-<br><br>
 <h3>#Skills:</h3> 
 <h4><u>English</u></h4>
 <p><em>B2</em> level English, currently working on <i>C1</i> level from <b><i><a href="https://britishtown.com.tr/">British Town</a></i></b></p>
